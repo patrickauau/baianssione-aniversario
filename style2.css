@@ -1,0 +1,214 @@
+body{
+    background-color: orange;
+}
+
+*{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+
+    align-items: center;
+    justify-content: top;
+    padding: 70px 150px;
+    background-position: center;
+    border: 10px solid red;
+    border-radius: 30px;
+    border-style: groove;
+    overflow: hidden;
+    background-color: orangered;
+}
+
+.container button{
+
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+    font-size: 25px;
+    width: 200px;
+    height: 400px;
+    margin: 10px 15px 25px 15px;
+    border: solid 3px yellow;
+    color: red;
+
+}
+
+.container button:hover{
+
+    cursor: pointer;
+    top: -50px;
+    transform: scale(1.1);
+    box-shadow: 3px 10px 10px 3px yellowgreen;
+
+
+}
+
+#patrick{
+
+    background-image: url("images/Screenshot_16.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+
+}
+
+#joao{
+
+    background-image: url("images/Screenshot_4.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+#rodrigo{
+
+    background-image: url("images/Screenshot_35.png");
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+#lipe{
+
+    background-image: url("images/Screenshot_7.png");
+    background-position: center;
+    background-size: cover; 
+    border-radius: 20px;
+}
+
+#extremo{
+
+    background-image: url("images/Screenshot_10.png");
+    background-position: center;
+    background-size: cover; 
+    border-radius: 20px;
+}
+
+#pye{
+
+    background-image: url("images/Screenshot_9.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#player{
+
+    background-image: url("images/Screenshot_3.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+
+}
+
+#might{
+
+    background-image: url("images/Screenshot_11.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#edu{
+
+    background-image: url("images/kakakakkaka.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#blacitu{
+
+    background-image: url("images/Screenshot_8.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#azy{
+
+    background-image: url("images/Screenshot_13.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#macakinos{
+    background-image: url("images/Screenshot_12.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#gabriel{
+    
+    background-image: url("images/Screenshot_18.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#stylo{
+
+    background-image: url("images/Screenshot_1.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#jose{
+
+    background-image: url("images/Screenshot_14.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#ravi{
+
+    background-image: url("images/Screenshot_15.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#groovy{
+
+    background-image: url("images/Screenshot_17.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#torresmo{
+
+    background-image: url("images/Screenshot_19.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#marcelo{
+
+    background-image: url("images/Screenshot_20.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+#arthur{
+
+    background-image: url("images/Screenshot_21.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+header{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
